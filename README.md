@@ -230,13 +230,13 @@ An AWS MFA (Multi-Factor Authentication) Architecture is a security framework ma
 
   
 
-# Project Purpose
+## Project Purpose
 
 *- The primary purpose of AWS Identity Shield is to strengthen AWS account security by implementing Multi-Factor Authentication (MFA) for the AWS Root User.*
 *- The project demonstrates how password-based authentication can be enhanced with an additional verification layer using Google Authenticator and Time-Based One-Time Passwords (TOTP).*
 *- Through this hands-on implementation, I explored AWS Identity and Access Management (IAM), configured a virtual MFA device, verified authentication codes, and tested the MFA-enabled sign-in process.*
 
-# Disclaimer
+## Disclaimer
 
 *This project, AWS Identity Shield, is created for educational and practical learning purposes to demonstrate AWS Root User security and Multi-Factor Authentication (MFA) implementation. All activities were performed on an authorized AWS account. This project demonstrates security best practices but does not guarantee complete protection against cyber threats or formal compliance with security standards. Never share passwords, account details, MFA QR codes, secret keys, or verification codes publicly.*
 
