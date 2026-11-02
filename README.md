@@ -1,6 +1,6 @@
 # AWS Identity Shield : Root Account Protection Through Multi Factor Authentication(MFA)
 
-AWS Identity Shield is a hands-on cloud security project focused on protecting the AWS Root Account by implementing Multi-Factor Authentication (MFA). It demonstrates how an additional authentication layer, using a virtual MFA device and Time-Based One-Time Passwords (TOTP), helps prevent unauthorized access and strengthens AWS account security beyond password-based authentication.
+*AWS Identity Shield is a hands-on cloud security project focused on protecting the AWS Root Account by implementing Multi-Factor Authentication (MFA). It demonstrates how an additional authentication layer, using a virtual MFA device and Time-Based One-Time Passwords (TOTP), helps prevent unauthorized access and strengthens AWS account security beyond password-based authentication.*
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ AWS Identity Shield is a hands-on cloud security project focused on protecting t
 
 - ##  Introduction to AWS MFA
   
-Multi-Factor Authentication (MFA) is a security mechanism that requires users to verify their identity using two or more authentication factors before accessing an account.In Amazon Web Services (AWS), MFA adds an extra layer of protection beyond a traditional password. It helps reduce the risk of unauthorized access, even if an account password is stolen, exposed, or compromised.AWS supports multiple MFA methods, including virtual authenticator applications, hardware MFA devices, security keys, and passkeys. A virtual authenticator generates Time-Based One-Time Passwords (TOTP) that change periodically and provide additional login verification.
+*Multi-Factor Authentication (MFA) is a security mechanism that requires users to verify their identity using two or more authentication factors before accessing an account.In Amazon Web Services (AWS), MFA adds an extra layer of protection beyond a traditional password. It helps reduce the risk of unauthorized access, even if an account password is stolen, exposed, or compromised.AWS supports multiple MFA methods, including virtual authenticator applications, hardware MFA devices, security keys, and passkeys. A virtual authenticator generates Time-Based One-Time Passwords (TOTP) that change periodically and provide additional login verification.*
 
 ### Why MFA Is Important
 
